@@ -47,7 +47,7 @@ The second assignment ive done is a 120mm x120mm rectangle, centered on the orig
 [The mount in Onshape](https://cvilleschools.onshape.com/documents/94296b314d397931918fdad2/w/f78e6bb8d76819ead288c5c2/e/0e2f23c37ac3d90e58bad9d2)
 
 ### Image 
-![Photo 2](Screenshot 2020 10 09 at 7.37.40 PM )
+![Photo 2] (Screenshot 2020 10 09 at 7.37.40 PM )
 
 ### Reflection
 
