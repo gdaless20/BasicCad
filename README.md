@@ -46,6 +46,7 @@ The second assignment ive done is a 120mm x120mm rectangle, centered on the orig
 ### Evidence
 
 ### Image 
+![Photo 2](Screenshot 2020-10-09 at 7.37.40 PM)
 
 ### Reflection
 
