@@ -42,10 +42,10 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-
+The second assignment ive done is a 120mm x120mm rectangle, centered on the origin,has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side (and therefore, 80mm from each other)and has another 25 mm circle in the center of the square.
 ### Evidence
 
-### Image
+### Image 
 
 ### Reflection
 
