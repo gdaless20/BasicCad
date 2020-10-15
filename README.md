@@ -47,7 +47,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [The mount in Onshape](https://cvilleschools.onshape.com/documents/94296b314d397931918fdad2/w/f78e6bb8d76819ead288c5c2/e/0e2f23c37ac3d90e58bad9d2)
 
 ### Image 
-![Photo 2](Basiccad/Screenshot 2020-10-09 at 7.37.40 PM.png)
+![](https://github.com/gdaless20/BasicCad/blob/master/Project/Base.png)
 
 ### Reflection
 >Something i learned while making this was that i should always center the original sketch on the origin using guide lines first before extruding or adding any other components.
