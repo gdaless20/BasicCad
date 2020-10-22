@@ -57,12 +57,15 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Fork
 
 ### Description
+*an 80 mm circle extruded 8 mm with 2 prongs with 10 mm holes 15 mm from the top and a 60 mm long shaft*
 
 ### Evidence
+[The fork in Onshape](https://cvilleschools.onshape.com/documents/33ad733b8f7b4b7030e754c1/w/51c2df78a49f289621fbd390/e/f5739b2ff154116a68ee1ec7) 
 
 ### Image
 
 ### Reflection
+>It took me a while to figure out the chamfer but i looked it up on the tools database and was able to find it.This assignmnet was quite easy but definitly took me some time
 
 ---
 
