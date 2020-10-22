@@ -42,7 +42,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ## Mount
 
 ### Description
-*The second assignment ive done is a 120mm x120mm rectangle, centered on the origin,has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side (and therefore, 80mm from each other)and has another 25 mm circle in the center of the square.
+The second assignment ive done is a 120mm x120mm rectangle, centered on the origin,has 4 symmetric holes in the corners, 10mm in diameter, 20mm from each side (and therefore, 80mm from each other)and has another 25 mm circle in the center of the square.
 ### Evidence
 [The mount in Onshape](https://cvilleschools.onshape.com/documents/94296b314d397931918fdad2/w/f78e6bb8d76819ead288c5c2/e/0e2f23c37ac3d90e58bad9d2)
 
@@ -50,7 +50,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 ![](https://github.com/gdaless20/BasicCad/blob/master/Project/Base.png)
 
 ### Reflection
->Something i learned while making this was that i should always center the original sketch on the origin using guide lines first before extruding or adding any other components.
+Something i learned while making this was that i should always center the original sketch on the origin using guide lines first before extruding or adding any other components.
 ---
 
 
@@ -63,10 +63,11 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 [The fork in Onshape](https://cvilleschools.onshape.com/documents/33ad733b8f7b4b7030e754c1/w/51c2df78a49f289621fbd390/e/f5739b2ff154116a68ee1ec7) 
 
 ### Image
+![](https://github.com/gdaless20/BasicCad/blob/master/Project/Screenshot%202020-10-22%20at%206.45.48%20PM.png)
 
 ### Reflection
->It took me a while to figure out the chamfer but i looked it up on the tools database and was able to find it.This assignmnet was quite easy but definitly took me some time
-
+>It took me a while to figure out the chamfer but i looked it up on the tools database and was able to find it.This assignmnet was quite easy but definitly took me some 
+time.
 ---
 
 
@@ -80,7 +81,7 @@ Onshape is awesome.  I found it really helpful to rename all my sketches.  It is
 
 ### Reflection
 
----
+--
 
 
 ## Wheel
