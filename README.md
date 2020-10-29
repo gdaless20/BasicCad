@@ -73,14 +73,17 @@ time.
 
 ## Tire
 
-### Description
+### Description 
+>It's a trapezoid that has ben revolved with 80 for the inside and 1110 for the outside with an 8 mm fillet on the outward edges.
 
 ### Evidence
+[The wheel in Onshape](https://cvilleschools.onshape.com/documents/1575599d87dd50a3ca865889/w/b6e14c625fcbb32f87152dbf/e/1f90ff496108b47f82514c6e)
 
 ### Image
+![](https://github.com/gdaless20/BasicCad/blob/master/Project/Screenshot%202020-10-29%20at%201.32.37%20PM.png)
 
 ### Reflection
-
+>I had a lot of trouble revolving the trapezoid as I was quite confused about how to make the dimensions look correct but I learned how to revolve shapes and how to make wheels in Onshape.
 --
 
 
