@@ -89,7 +89,7 @@ time.
 # Castor assembly
 
 # Description
-
+Final part was fun to work on and learned new shortcuts
 # photo
 ![](https://github.com/gdaless20/BasicCad/blob/master/Project/castor%20assem%20gaby.png)
 
@@ -99,7 +99,7 @@ time.
 ## Wheel
 
 ### Description
-
+Harder than most but pulled through when i watched the video slowly
 ### Evidence
 [Onshape](https://cvilleschools.onshape.com/documents/c192d83386c1d3e3a658bccf/w/31a38867ddae185fb2c7874d/e/8bdd4af38d98686350b8c7dd)
 ### Image
@@ -112,7 +112,7 @@ time.
 ## AxleCollarBearings
 
 ### Description
-
+Learned that i can make multiple parts in one document
 ### Evidence
 [Onshape](https://cvilleschools.onshape.com/documents/a808ca174ba3b63009559cd7/w/5b00d71eba1df4e5e22e8138/e/a37efbc84e0361b3ee99f9b2)
 ### Image
@@ -122,7 +122,7 @@ time.
 # Sub assembly
 
 # Reflection
-
+easyesit one of them all quik reminder of shortcuts
 # Photo
 ![](https://github.com/gdaless20/BasicCad/blob/master/Project/wheel%2C%20axale%20gaby.png)
 
