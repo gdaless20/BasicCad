@@ -119,4 +119,13 @@ time.
 ![](https://github.com/gdaless20/BasicCad/blob/master/Project/axle%20and%20collar%20gaby.png)
 ### Reflection
 
+# Sub assembly
+
+# Reflection
+
+# Photo
+![](https://github.com/gdaless20/BasicCad/blob/master/Project/wheel%2C%20axale%20gaby.png)
+
+# Evidence
+[Onshape](https://cvilleschools.onshape.com/documents/c192d83386c1d3e3a658bccf/w/31a38867ddae185fb2c7874d/e/8bdd4af38d98686350b8c7dd)
 ---
