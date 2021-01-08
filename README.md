@@ -86,6 +86,13 @@ time.
 >I had a lot of trouble revolving the trapezoid as I was quite confused about how to make the dimensions look correct but I learned how to revolve shapes and how to make wheels in Onshape.
 --
 
+# Castor assembly
+
+# photo
+1[](https://github.com/gdaless20/BasicCad/blob/master/Project/castor%20assem%20gaby.png)
+
+# Evidence
+[](https://cvilleschools.onshape.com/documents/6f2686d30e89c8279d3ec154/w/2f8710eb23e788b78014fa21/e/83b80ea28f465201dc32ae3e)
 
 ## Wheel
 
